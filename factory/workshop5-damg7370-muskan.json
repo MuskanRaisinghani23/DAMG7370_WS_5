@@ -1,0 +1,9 @@
+{
+	"name": "workshop5-damg7370-muskan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cf84a7b-363c-4047-96fc-bd0ffb5d3dc6",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
